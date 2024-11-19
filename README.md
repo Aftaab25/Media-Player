@@ -1,2 +1,2 @@
-# Media-Player
-A python based desktop app to play songs/movies from device folders.
+# Amphi
+A C++ based Qt app to play songs/movies from device folders.
